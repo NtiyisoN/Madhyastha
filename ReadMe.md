@@ -2,12 +2,8 @@
 # Madhyastha
 ### <i> A simple social media </i>
 
->An implementation of Madhyastha component in  Java EE,HTML,CSS,JavaScript/Jquery,Hibernate,Antima-Style and Guptalekhanapaddhati.
+>An implementation of Madhyastha  in  Java EE,HTML,CSS,JavaScript/Jquery,Hibernate,Antima-Style and Guptalekhanapaddhati.
 
-<p align="center">
-<img src="Images/antima-style.png" alt="" width=72 height=72>
-</a>
-<h3 align="center">Madhyastha</h3>
-<p align="center">
-A simple social media .
-<br>
+
+[![Promotional video](https://www.youtube.com/watch?v=ygern6pUeH0&disable_polymer=true/0.jpg)](https://www.youtube.com/watch?v=ygern6pUeH0&disable_polymer=true)
+

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Apr 4, 2022 11:22:46 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="ServletSignup.Signup" table="SIGNUP" schema="MANSHU" optimistic-lock="version">
+        <id name="number" type="long">
+            <column name="NUMBER" precision="10" scale="0" />
+            <generator class="assigned" />
+        </id>
+        <property name="firstname" type="string">
+            <column name="FIRSTNAME" length="15" />
+        </property>
+        <property name="middle" type="string">
+            <column name="MIDDLE" length="15" />
+        </property>
+        <property name="lastname" type="string">
+            <column name="LASTNAME" length="15" />
+        </property>
+        <property name="dob" type="date">
+            <column name="DOB" length="10" />
+        </property>
+        <property name="country" type="string">
+            <column name="COUNTRY" length="15" />
+        </property>
+        <property name="countrycode" type="java.lang.Integer">
+            <column name="COUNTRYCODE" precision="5" scale="0" />
+        </property>
+        <property name="gender" type="string">
+            <column name="GENDER" />
+        </property>
+        <property name="quote" type="string">
+            <column name="QUOTE" length="150" />
+        </property>
+        <property name="cover" type="string">
+            <column name="COVER" length="30" />
+        </property>  
+        <property name="profile" type="string">
+            <column name="PROFILE" length="30" />
+        </property>           
+    </class>
+</hibernate-mapping>

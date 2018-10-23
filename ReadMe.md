@@ -22,7 +22,7 @@
 6. Newsfeed of others you follow  and more more more more 
 
 
-Following are the main  tools we use to build this project
+>>Following are the main  tools we use to build this project
 1. Websocket 
 2. AJAX
 3. Guptalekhanapaddhati - my own library

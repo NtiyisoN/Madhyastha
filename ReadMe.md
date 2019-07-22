@@ -35,4 +35,4 @@
 ## Creators
 Manshu Sharma
 
-Under guidance of Mr. Rajendra Purohit (associate professor)
+Under guidance of Mr. Rajendra Purohit (associate professor) and Mr Virendra Kumar Soni
